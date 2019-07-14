@@ -21,7 +21,7 @@ export default class extends React.Component<IndexPageProps, {}> {
   public render() {
     return (
       <div>
-        <p>The component rendered below is edited in Framer X and React, depening on which point of view you're coming from.</p>
+        <p>The component rendered below is edited in Framer X and React, depening on which point of view you're coming from. -catl04f</p>
         <ExampleComponent text="This is a Framer X Component being rendered"/>
       </div>
     )
